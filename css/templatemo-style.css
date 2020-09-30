@@ -5,21 +5,21 @@
 		
 
 @font-face {
-  font-family: 'robotolight';
+  font-family: 'Righteous';
   src: url("../fonts/Roboto-Light-webfont.eot");
   src: url("../fonts/Roboto-Light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Light-webfont.woff") format("woff"), url("../fonts/Roboto-Light-webfont.ttf") format("truetype"), url("../fonts/Roboto-Light-webfont.svg#robotolight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'robotoregular';
+  font-family: 'Righteous';
   src: url("../fonts/Roboto-Regular-webfont.eot");
   src: url("../fonts/Roboto-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Regular-webfont.woff") format("woff"), url("../fonts/Roboto-Regular-webfont.ttf") format("truetype"), url("../fonts/Roboto-Regular-webfont.svg#robotoregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'robotobold';
+  font-family: 'Righteous';
   src: url("../fonts/Roboto-Bold-webfont.eot");
   src: url("../fonts/Roboto-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Bold-webfont.woff") format("woff"), url("../fonts/Roboto-Bold-webfont.ttf") format("truetype"), url("../fonts/Roboto-Bold-webfont.svg#robotobold") format("svg");
   font-weight: normal;
@@ -183,7 +183,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: white;
-  font-family: 'robotolight';
+  font-family: 'Righteous';
 }
 
 a {
@@ -260,14 +260,14 @@ h1, h2, h3, h4, h5 {
 .box-content {
   background: white;
   color: #555;
-  font-family: 'robotolight';
+  font-family: 'Righteous';
   padding: 30px;
   margin-top: 30px;
 }
 .box-content .widget-title {
   font-size: 22px;
   color: #333;
-  font-family: 'robotolight';
+  font-family: 'Righteous';
   margin-bottom: 30px;
 }
 
@@ -277,13 +277,13 @@ h1, h2, h3, h4, h5 {
 }
 .welcome-text h2 {
   font-size: 25px;
-  font-family: 'robotolight';
+  font-family: 'Righteous';
   margin-bottom: 30px;
   color: black;
 }
 .welcome-text p {
   font-size: 18px;
-  font-family: 'robotolight';
+  font-family: 'Righteous';
 }
 
 .subscribe-form {
@@ -438,7 +438,7 @@ h1, h2, h3, h4, h5 {
   background: rgba(0, 0, 0, 0.3);
   padding: 15px 30px;
   text-transform: uppercase;
-  font-family: 'robotoregular';
+  font-family: 'Righteous';
   display: inline-block;
 }
 .toggle-menu i {
@@ -509,7 +509,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .profile-name {
-  font-family: 'robotoregular';
+  font-family: 'Righteous';
   font-size: 18px;
 }
 
